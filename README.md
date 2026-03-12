@@ -1,6 +1,6 @@
 # Robotic Automation Factory - Package Sorting
 
-> **Note:** This code has been generated using [Claude Code](https://claude.ai/code) with prompts and is well tested with comprehensive edge case coverage.
+> **Note from the author:** This code has been generated using [Claude Code](https://claude.ai/code) with prompts and is well tested with comprehensive edge case coverage.
 
 ## Problem
 
