@@ -1,5 +1,7 @@
 # Robotic Automation Factory - Package Sorting
 
+> **Note:** This code has been generated using [Claude Code](https://claude.ai/code) with prompts and is well tested with comprehensive edge case coverage.
+
 ## Problem
 
 Imagine you work in Smarter Technology's robotic automation factory, and your objective is to write a function for one of its robotic arms that will dispatch the packages to the correct stack according to their volume and mass.
